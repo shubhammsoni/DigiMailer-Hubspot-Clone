@@ -1,6 +1,5 @@
-EMAIL_CONFIG = {
-    "EMAIL": "contact@digipython.com",
-    "PASSWORD": "DigiContact@901",
-    "SMTP_SERVER": "smtp.office365.com",
-    "SMTP_PORT": 587
-}
+EMAIL_HOST = "smtp.gmail.com"
+EMAIL_PORT = 587
+
+EMAIL_ADDRESS = "shubhamhumanbeing@gmail.com"
+EMAIL_PASSWORD = "dlkxqtsmavsctclu"
